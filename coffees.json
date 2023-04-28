@@ -3,7 +3,7 @@
     "title": "Cappuccino",
     "price": 2.99,
     "image": "https://example.com/hot-coffee.jpg",
-    "size": "12 oz",
+    "size": 12,
     "calories": 200,
     "addons": [
       {
