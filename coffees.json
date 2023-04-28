@@ -1,0 +1,72 @@
+{
+  "drinks": [
+    {
+      "title": "Hot Coffee",
+      "price": 2.99,
+      "image": "https://example.com/hot-coffee.jpg",
+      "size": "12 oz",
+      "calories": 200,
+      "addons": [
+        {
+          "addon": "Whipped Cream",
+          "price": 0.50
+        },
+        {
+          "addon": "Caramel Syrup",
+          "price": 0.75
+        }
+      ]
+    },
+    {
+      "title": "Cold Coffee",
+      "price": 3.99,
+      "image": "https://example.com/cold-coffee.jpg",
+      "size": "16 oz",
+      "calories": 150,
+      "addons": [
+        {
+          "addon": "Milk",
+          "price": 0.50
+        },
+        {
+          "addon": "Chocolate Syrup",
+          "price": 1.00
+        }
+      ]
+    },
+    {
+      "title": "Hot Tea",
+      "price": 2.49,
+      "image": "https://example.com/hot-tea.jpg",
+      "size": "8 oz",
+      "calories": 100,
+      "addons": [
+        {
+          "addon": "Honey",
+          "price": 0.25
+        },
+        {
+          "addon": "Lemon",
+          "price": 0.25
+        }
+      ]
+    },
+    {
+      "title": "Cold Tea",
+      "price": 3.49,
+      "image": "https://example.com/cold-tea.jpg",
+      "size": "16 oz",
+      "calories": 120,
+      "addons": [
+        {
+          "addon": "Sugar",
+          "price": 0.25
+        },
+        {
+          "addon": "Mint",
+          "price": 0.50
+        }
+      ]
+    }
+  ]
+}
