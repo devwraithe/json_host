@@ -31,5 +31,31 @@
         "price": 0.80
       }
     ]
-  }
+  },
+  {
+  "title": "Salted Caramel Hot Cocoa",
+  "price": 4.99,
+  "image": "https://i.pinimg.com/564x/e8/0e/2a/e80e2a7a1a25a50d559f98e71eebf3f3.jpg",
+  "size": 16,
+  "calories": 350,
+  "addons": [
+    {
+      "addon": "Whipped Cream",
+      "price": 0.50
+    },
+    {
+      "addon": "Caramel Syrup",
+      "price": 0.75
+    },
+    {
+      "addon": "Cinnamon Powder",
+      "price": 0.40
+    },
+    {
+      "addon": "Sea Salt",
+      "price": 0.60
+    }
+  ]
+}
+
 ]
