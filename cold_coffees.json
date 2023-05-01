@@ -1,10 +1,124 @@
 [
   {
-    "title": "Coconut Hot Chocolate",
-    "price": 3.50,
-    "image": "https://i.pinimg.com/564x/64/a2/22/64a222553cd51d3c7cfb9eb9a9dd6081.jpg",
-    "size": 18,
-    "calories": 270,
+    "title": "Iced Caramel Macchiato",
+    "price": 4.50,
+    "image": "https://i.pinimg.com/564x/19/85/4a/19854a493a9ef67a4eb287692057d4bb.jpg",
+    "size": 16,
+    "calories": 250,
+    "addons": [
+      {
+        "addon": "Caramel Syrup",
+        "price": 0.75
+      },
+      {
+        "addon": "Whipped Cream",
+        "price": 0.50
+      }
+    ]
+  },
+  {
+    "title": "Iced Vanilla Latte",
+    "price": 4.00,
+    "image": "https://i.pinimg.com/564x/38/4e/60/384e6075849ba6118d07f523a75814ca.jpg",
+    "size": 20,
+    "calories": 200,
+    "addons": [
+      {
+        "addon": "Vanilla Syrup",
+        "price": 0.60
+      },
+      {
+        "addon": "Whipped Cream",
+        "price": 0.50
+      }
+    ]
+  },
+  {
+    "title": "Iced Mocha",
+    "price": 4.50,
+    "image": "https://i.pinimg.com/564x/64/06/d6/6406d6ea581d7e87f22bff8f10a92944.jpg",
+    "size": 16,
+    "calories": 280,
+    "addons": [
+      {
+        "addon": "Chocolate Syrup",
+        "price": 0.75
+      },
+      {
+        "addon": "Whipped Cream",
+        "price": 0.50
+      }
+    ]
+  },
+  {
+    "title": "Iced Cinnamon Dolce Latte",
+    "price": 4.25,
+    "image": "https://i.pinimg.com/564x/bb/27/10/bb2710ce0a37ab6efd846c78630c2ece.jpg",
+    "size": 20,
+    "calories": 230,
+    "addons": [
+      {
+        "addon": "Cinnamon Dolce Syrup",
+        "price": 0.75
+      },
+      {
+        "addon": "Whipped Cream",
+        "price": 0.50
+      }
+    ]
+  },
+  {
+    "title": "Iced White Chocolate Mocha",
+    "price": 4.50,
+    "image": "https://i.pinimg.com/564x/9e/af/20/9eaf201a68ddc3b0a68e834820c09667.jpg",
+    "size": 16,
+    "calories": 310,
+    "addons": [
+      {
+        "addon": "White Chocolate Syrup",
+        "price": 0.75
+      },
+      {
+        "addon": "Whipped Cream",
+        "price": 0.50
+      }
+    ]
+  },
+  {
+    "title": "Vanilla Iced Coffee",
+    "price": 3.75,
+    "image": "https://i.pinimg.com/564x/0c/50/de/0c50de2da7aaac1028e41ec589661600.jpg",
+    "size": 20,
+    "calories": 120,
+    "addons": [
+      {
+        "addon": "Whipped Cream",
+        "price": 0.50
+      },
+      {
+        "addon": "Vanilla Syrup",
+        "price": 0.60
+      },
+      {
+        "addon": "Caramel Syrup",
+        "price": 0.75
+      },
+      {
+        "addon": "Toffee Syrup",
+        "price": 0.75
+      },
+      {
+        "addon": "Mocha Syrup",
+        "price": 0.75
+      }
+    ]
+  },
+  {
+    "title": "Iced Caramel Latte",
+    "price": 4.00,
+    "image": "https://i.pinimg.com/564x/00/22/e6/0022e6be86f534c1dfb9144df4623e6a.jpg",
+    "size": 16,
+    "calories": 260,
     "addons": [
       {
         "addon": "Whipped Cream",
@@ -15,20 +129,8 @@
         "price": 0.75
       },
       {
-        "addon": "Chocolate Chips",
-        "price": 0.90
-      },
-      {
-        "addon": "Vanilla Syrup",
-        "price": 0.60
-      },
-      {
-        "addon": "Cinnamon Powder",
-        "price": 0.40
-      },
-      {
-        "addon": "Mint Syrup",
-        "price": 0.80
+        "addon": "Hazelnut Syrup",
+        "price": 0.75
       }
     ]
   }
