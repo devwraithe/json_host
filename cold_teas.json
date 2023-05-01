@@ -1,35 +1,36 @@
 [
   {
-    "title": "Coconut Hot Chocolate",
-    "price": 3.50,
-    "image": "https://i.pinimg.com/564x/64/a2/22/64a222553cd51d3c7cfb9eb9a9dd6081.jpg",
-    "size": 18,
-    "calories": 270,
+    "title": "Hot Nutella",
+    "price": 4.50,
+    "image": "https://i.imgur.com/7w6aP5z.jpg",
+    "size": 16,
+    "calories": 320,
     "addons": [
-      {
-        "addon": "Whipped Cream",
-        "price": 0.50
-      },
-      {
-        "addon": "Caramel Syrup",
-        "price": 0.75
-      },
-      {
-        "addon": "Chocolate Chips",
-        "price": 0.90
-      },
-      {
-        "addon": "Vanilla Syrup",
-        "price": 0.60
-      },
-      {
-        "addon": "Cinnamon Powder",
-        "price": 0.40
-      },
-      {
-        "addon": "Mint Syrup",
-        "price": 0.80
-      }
+        {
+            "addon": "Hazelnut Syrup",
+            "price": 0.50
+        },
+        {
+            "addon": "Whipped Cream",
+            "price": 0.75
+        },
+        {
+            "addon": "Chocolate Syrup",
+            "price": 0.90
+        },
+        {
+            "addon": "Caramel Syrup",
+            "price": 0.60
+        },
+        {
+            "addon": "Marshmallows",
+            "price": 0.40
+        },
+        {
+            "addon": "Coconut Milk",
+            "price": 0.80
+        }
     ]
-  }
+}
+
 ]
