@@ -1,35 +1,81 @@
 [
   {
-    "title": "Coconut Hot Chocolate",
+    "title": "Chai Tea Latte",
     "price": 3.50,
-    "image": "https://i.pinimg.com/564x/64/a2/22/64a222553cd51d3c7cfb9eb9a9dd6081.jpg",
-    "size": 18,
-    "calories": 270,
+    "image": "https://i.pinimg.com/564x/f5/a8/6e/f5a86e6251a9d8045bbb754133508d6e.jpg",
+    "size": "large",
+    "calories": 230,
     "addons": [
       {
-        "addon": "Whipped Cream",
+        "addon": "Cinnamon",
         "price": 0.50
       },
       {
-        "addon": "Caramel Syrup",
+        "addon": "Vanilla Syrup",
         "price": 0.75
       },
       {
-        "addon": "Chocolate Chips",
+        "addon": "Whipped Cream",
         "price": 0.90
       },
       {
-        "addon": "Vanilla Syrup",
+        "addon": "Honey",
         "price": 0.60
       },
       {
-        "addon": "Cinnamon Powder",
-        "price": 0.40
-      },
-      {
-        "addon": "Mint Syrup",
-        "price": 0.80
+        "addon": "Almond Milk",
+        "price": 1.00
       }
     ]
-  }
+  },
+  {
+    "title": "Matcha Latte",
+    "price": 4.00,
+    "image": "https://i.pinimg.com/564x/41/c1/fa/41c1faff1eb6a7ced78fb9ad3ebcd64e.jpg",
+    "size": "large",
+    "calories": 250,
+    "addons": [
+      {
+        "addon": "Honey",
+        "price": 0.50
+      },
+      {
+        "addon": "Vanilla Syrup",
+        "price": 0.75
+      },
+      {
+        "addon": "Whipped Cream",
+        "price": 0.90
+      },
+      {
+        "addon": "Almond Milk",
+        "price": 1.00
+      }
+    ]
+  },
+  {
+    "title": "Ginger Tea",
+    "price": 2.50,
+    "image": "https://i.pinimg.com/564x/c5/c9/59/c5c95917f0452d036ccf846418c12d11.jpg",
+    "size": "medium",
+    "calories": 0,
+    "addons": [
+      {
+        "addon": "Honey",
+        "price": 0.50
+      },
+      {
+        "addon": "Lemon",
+        "price": 0.25
+      },
+      {
+        "addon": "Mint Leaves",
+        "price": 0.75
+      },
+      {
+        "addon": "Ginger Syrup",
+        "price": 0.60
+      }
+    ]
+  },
 ]
