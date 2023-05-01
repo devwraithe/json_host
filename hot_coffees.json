@@ -88,5 +88,34 @@
         "price": 0.80
       }
     ]
+  },
+  {
+    "title": "Spiked Nutella",
+    "price": 5.99,
+    "image": "https://i.pinimg.com/564x/f2/97/da/f297da3f3bec50ff53504ecdd4bb7c84.jpg",
+    "size": 16,
+    "calories": 340,
+    "addons": [
+      {
+        "addon": "Hazelnut Syrup",
+        "price": 0.75
+      },
+      {
+        "addon": "Irish Cream Syrup",
+        "price": 1.00
+      },
+      {
+        "addon": "Whipped Cream",
+        "price": 0.50
+      },
+      {
+        "addon": "Chocolate Sauce",
+        "price": 0.90
+      },
+      {
+        "addon": "Toffee Syrup",
+        "price": 0.80
+      }
+    ]
   }
 ]
