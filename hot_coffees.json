@@ -33,9 +33,9 @@
     ]
   },
   {
-    "title": "Salted Caramel Hot Cocoa",
-    "price": 4.99,
-    "image": "https://i.pinimg.com/564x/e8/0e/2a/e80e2a7a1a25a50d559f98e71eebf3f3.jpg",
+    "title": "Cinnamon Mocha",
+    "price": 4.00,
+    "image": "https://i.pinimg.com/564x/2a/98/77/2a987777adfd04a8afbd89e1645ecbbc.jpg",
     "size": 16,
     "calories": 350,
     "addons": [
@@ -48,20 +48,21 @@
         "price": 0.75
       },
       {
-        "addon": "Cinnamon Powder",
-        "price": 0.40
+        "addon": "Chocolate Syrup",
+        "price": 0.90
       },
       {
-        "addon": "Sea Salt",
+        "addon": "Hazelnut Syrup",
         "price": 0.60
       }
     ]
-  },{
-    "title": "Coconut Hot Chocolate",
-    "price": 3.50,
-    "image": "https://i.pinimg.com/564x/64/a2/22/64a222553cd51d3c7cfb9eb9a9dd6081.jpg",
-    "size": 18,
-    "calories": 270,
+  },
+  {
+    "title": "Salted Caramel Hot Cocoa",
+    "price": 3.75,
+    "image": "https://i.pinimg.com/564x/66/83/43/668343096056547b634fc21672f3f76c.jpg",
+    "size": 20,
+    "calories": 290,
     "addons": [
       {
         "addon": "Whipped Cream",
@@ -72,8 +73,100 @@
         "price": 0.75
       },
       {
-        "addon": "Chocolate Chips",
+        "addon": "Sea Salt",
+        "price": 0.40
+      }
+    ]
+  },
+  {
+    "title": "Pumpkin Spice Latte",
+    "price": 4.25,
+    "image": "https://i.pinimg.com/564x/5d/9d/5c/5d9d5c8c1b10a7a90a46f6ab5b5e80d5.jpg",
+    "size": 16,
+    "calories": 410,
+    "addons": [
+      {
+        "addon": "Whipped Cream",
+        "price": 0.50
+      },
+      {
+        "addon": "Pumpkin Spice",
+        "price": 0.75
+      },
+      {
+        "addon": "Cinnamon Powder",
+        "price": 0.40
+      },
+      {
+        "addon": "Vanilla Syrup",
+        "price": 0.60
+      }
+    ]
+  },
+  {
+    "title": "Mexican Mocha",
+    "price": 4.50,
+    "image": "https://i.pinimg.com/564x/59/86/ac/5986ac93b97bc32c7c7693ba926ade14.jpg",
+    "size": 20,
+    "calories": 320,
+    "addons": [
+      {
+        "addon": "Whipped Cream",
+        "price": 0.50
+      },
+      {
+        "addon": "Cinnamon Powder",
+        "price": 0.40
+      },
+      {
+        "addon": "Cayenne Pepper",
+        "price": 0.60
+      },
+      {
+        "addon": "Chocolate Shavings",
+        "price": 0.80
+      }
+    ]
+  },
+  {
+    "title": "Hazelnut Mocha",
+    "price": 4.50,
+    "image": "https://i.pinimg.com/564x/d5/8a/0f/d58a0f574a3ae3e48d3ccacefe9e457f.jpg",
+    "size": 16,
+    "calories": 320,
+    "addons": [
+      {
+        "addon": "Whipped Cream",
+        "price": 0.50
+      },
+      {
+        "addon": "Hazelnut Syrup",
+        "price": 0.75
+      },
+      {
+        "addon": "Chocolate Syrup",
         "price": 0.90
+      },
+      {
+        "addon": "Vanilla Syrup",
+        "price": 0.60
+      }
+    ]
+  },
+  {
+    "title": "Caramel Macchiato",
+    "price": 4.50,
+    "image": "https://i.pinimg.com/564x/44/c8/68/44c8684d4f81e86197c69abfbbf74b56.jpg",
+    "size": 16,
+    "calories": 250,
+    "addons": [
+      {
+        "addon": "Whipped Cream",
+        "price": 0.50
+      },
+      {
+        "addon": "Caramel Syrup",
+        "price": 0.75
       },
       {
         "addon": "Vanilla Syrup",
@@ -82,39 +175,56 @@
       {
         "addon": "Cinnamon Powder",
         "price": 0.40
-      },
-      {
-        "addon": "Mint Syrup",
-        "price": 0.80
       }
     ]
   },
   {
-    "title": "Spiked Nutella",
-    "price": 5.99,
-    "image": "https://i.pinimg.com/564x/f2/97/da/f297da3f3bec50ff53504ecdd4bb7c84.jpg",
+    "title": "Peppermint Mocha",
+    "price": 4.75,
+    "image": "https://i.pinimg.com/474x/2a/cd/14/2acd1403ce8c1b092473d8e5781171a1.jpg",
     "size": 16,
-    "calories": 340,
+    "calories": 320,
     "addons": [
-      {
-        "addon": "Hazelnut Syrup",
-        "price": 0.75
-      },
-      {
-        "addon": "Irish Cream Syrup",
-        "price": 1.00
-      },
       {
         "addon": "Whipped Cream",
         "price": 0.50
       },
       {
-        "addon": "Chocolate Sauce",
-        "price": 0.90
+        "addon": "Peppermint Syrup",
+        "price": 0.75
       },
       {
-        "addon": "Toffee Syrup",
-        "price": 0.80
+        "addon": "Chocolate Syrup",
+        "price": 0.60
+      },
+      {
+        "addon": "Chocolate Chips",
+        "price": 0.40
+      }
+    ]
+  },
+  {
+    "title": "Cinnamon Dolce Latte",
+    "price": 4.25,
+    "image": "https://i.pinimg.com/474x/16/b9/85/16b98533b79bd56cb9bf9bab41daffac.jpg",
+    "size": 16,
+    "calories": 290,
+    "addons": [
+      {
+        "addon": "Whipped Cream",
+        "price": 0.50
+      },
+      {
+        "addon": "Cinnamon Syrup",
+        "price": 0.75
+      },
+      {
+        "addon": "Vanilla Syrup",
+        "price": 0.60
+      },
+      {
+        "addon": "Cinnamon Powder",
+        "price": 0.40
       }
     ]
   }
