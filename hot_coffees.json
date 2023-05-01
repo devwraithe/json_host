@@ -56,6 +56,37 @@
       "price": 0.60
     }
   ]
-}
-
+},
+    "title": "Coconut Hot Chocolate",
+    "price": 3.50,
+    "image": "https://i.pinimg.com/564x/64/a2/22/64a222553cd51d3c7cfb9eb9a9dd6081.jpg",
+    "size": 18,
+    "calories": 270,
+    "addons": [
+      {
+        "addon": "Whipped Cream",
+        "price": 0.50
+      },
+      {
+        "addon": "Caramel Syrup",
+        "price": 0.75
+      },
+      {
+        "addon": "Chocolate Chips",
+        "price": 0.90
+      },
+      {
+        "addon": "Vanilla Syrup",
+        "price": 0.60
+      },
+      {
+        "addon": "Cinnamon Powder",
+        "price": 0.40
+      },
+      {
+        "addon": "Mint Syrup",
+        "price": 0.80
+      }
+    ]
+  }
 ]
