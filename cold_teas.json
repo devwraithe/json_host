@@ -3,7 +3,7 @@
     "title": "Mint Lemon Iced Tea",
     "price": 3.50,
     "image": "https://i.pinimg.com/564x/62/39/cd/6239cde300e894e068ec69be47be8d6a.jpg",
-    "size": 16.0,
+    "size": 16,
     "calories": 60,
     "addons": [
       {
@@ -24,7 +24,7 @@
     "title": "Peach Iced Tea",
     "price": 4.25,
     "image": "https://i.pinimg.com/564x/a3/5f/6f/a35f6ff6f00e1ae2b01bafb9873296e7.jpg",
-    "size": 20.0,
+    "size": 20,
     "calories": 100,
     "addons": [
       {
@@ -41,7 +41,7 @@
     "title": "Jasmine Green Tea",
     "price": 3.75,
     "image": "https://i.pinimg.com/564x/17/e2/51/17e251cac2615b2d61035f8ab8581741.jpg",
-    "size": 18.0,
+    "size": 18,
     "calories": 45,
     "addons": [
       {
@@ -58,7 +58,7 @@
     "title": "Raspberry Hibiscus Iced Tea",
     "price": 4.50,
     "image": "https://i.pinimg.com/564x/0e/2c/34/0e2c340d43953dced382085e617631b7.jpg",
-    "size": 20.0,
+    "size": 20,
     "calories": 80,
     "addons": [
       {
@@ -75,7 +75,7 @@
     "title": "Orange Pekoe Iced Tea",
     "price": 3.25,
     "image": "https://i.pinimg.com/564x/68/e5/ef/68e5efb04be75f61f16b9279f0060429.jpg",
-    "size": 16.0,
+    "size": 16,
     "calories": 50,
     "addons": [
       {
@@ -88,7 +88,7 @@
     "title": "Blueberry White Tea",
     "price": 4.00,
     "image": "https://i.pinimg.com/564x/1f/6b/ee/1f6bee4f1feee1c76cdf5c23ef394baa.jpg",
-    "size": 18.0,
+    "size": 18,
     "calories": 70,
     "addons": [
       {
@@ -105,7 +105,7 @@
     "title": "Green Tea with Mango",
     "price": 4.50,
     "image": "https://i.pinimg.com/564x/13/32/bb/1332bbfe810100619d9b627a45ccce28.jpg",
-    "size": 20.0,
+    "size": 20,
     "calories": 90,
     "addons": [
       {
