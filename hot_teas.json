@@ -3,7 +3,7 @@
     "title": "Chai Tea Latte",
     "price": 3.50,
     "image": "https://i.pinimg.com/564x/f5/a8/6e/f5a86e6251a9d8045bbb754133508d6e.jpg",
-    "size": "large",
+    "size": 12,
     "calories": 230,
     "addons": [
       {
@@ -32,7 +32,7 @@
     "title": "Matcha Latte",
     "price": 4.00,
     "image": "https://i.pinimg.com/564x/41/c1/fa/41c1faff1eb6a7ced78fb9ad3ebcd64e.jpg",
-    "size": "large",
+    "size": 8,
     "calories": 250,
     "addons": [
       {
@@ -57,7 +57,7 @@
     "title": "Ginger Tea",
     "price": 2.50,
     "image": "https://i.pinimg.com/564x/c5/c9/59/c5c95917f0452d036ccf846418c12d11.jpg",
-    "size": "medium",
+    "size": 10,
     "calories": 0,
     "addons": [
       {
@@ -75,6 +75,186 @@
       {
         "addon": "Ginger Syrup",
         "price": 0.60
+      }
+    ]
+  },
+  {
+    "title": "Chamomile Tea",
+    "price": 2.75,
+    "image": "https://i.pinimg.com/564x/f0/38/75/f038752e463225109977b9eaf2b262d7.jpg",
+    "size": 12,
+    "calories": 0,
+    "addons": [
+      {
+        "addon": "Honey",
+        "price": 0.50
+      },
+      {
+        "addon": "Lemon",
+        "price": 0.25
+      },
+      {
+        "addon": "Mint Leaves",
+        "price": 0.75
+      },
+      {
+        "addon": "Ginger Syrup",
+        "price": 0.60
+      }
+    ]
+  },
+  {
+    "title": "Earl Grey Tea",
+    "price": 2.95,
+    "image": "https://www.pinterest.com/pin/985231156161123/",
+    "size": 16,
+    "calories": 0,
+    "addons": [
+      {
+        "addon": "Lavender Syrup",
+        "price": 0.75
+      },
+      {
+        "addon": "Vanilla Syrup",
+        "price": 0.50
+      },
+      {
+        "addon": "Cinnamon Powder",
+        "price": 0.40
+      },
+      {
+        "addon": "Lemon Juice",
+        "price": 0.25
+      }
+    ]
+  },
+  {
+    "title": "Peppermint Tea",
+    "price": 2.50,
+    "image": "https://i.pinimg.com/564x/de/8d/85/de8d85a95b5b214ac0fd934a8fcadac4.jpg",
+    "size": 8,
+    "calories": 0,
+    "addons": [
+      {
+        "addon": "Honey",
+        "price": 0.50
+      },
+      {
+        "addon": "Lemon",
+        "price": 0.25
+      },
+      {
+        "addon": "Chocolate Syrup",
+        "price": 0.90
+      },
+      {
+        "addon": "Mint Leaves",
+        "price": 0.75
+      }
+    ]
+  },
+  {
+    "title": "Jasmine Tea",
+    "price": 2.75,
+    "image": "https://i.pinimg.com/564x/d2/99/07/d29907ef941048280d68246f1424c6e0.jpg",
+    "size": 6,
+    "calories": 0,
+    "addons": [
+      {
+        "addon": "Honey",
+        "price": 0.50
+      },
+      {
+        "addon": "Lemon",
+        "price": 0.25
+      },
+      {
+        "addon": "Mint Leaves",
+        "price": 0.75
+      },
+      {
+        "addon": "Ginger Syrup",
+        "price": 0.60
+      }
+    ]
+  },
+  {
+    "title": "Spiced Chai Tea",
+    "price": 3.25,
+    "image": "https://i.pinimg.com/564x/9d/95/3a/9d953a814db897c7e6b3ad79d04d4207.jpg",
+    "size": 12,
+    "calories": 130,
+    "addons": [
+      {
+        "addon": "Cinnamon Powder",
+        "price": 0.40
+      },
+      {
+        "addon": "Whipped Cream",
+        "price": 0.50
+      },
+      {
+        "addon": "Caramel Syrup",
+        "price": 0.75
+      }
+    ]
+  },
+  {
+    "title": "Mint Tea",
+    "price": 2.50,
+    "image": "https://i.pinimg.com/564x/57/f3/cc/57f3ccc757b1914b8209378177491228.jpg",
+    "size": 8,
+    "calories": 0,
+    "addons": [
+      {
+        "addon": "Honey",
+        "price": 0.50
+      },
+      {
+        "addon": "Lemon",
+        "price": 0.25
+      },
+      {
+        "addon": "Mint Syrup",
+        "price": 0.60
+      }
+    ]
+  },
+  {
+    "title": "Lavender Tea",
+    "price": 3.00,
+    "image": "https://i.pinimg.com/564x/5d/cc/2b/5dcc2b88b7433ef03c84868de0af9f4f.jpg",
+    "size": 16,
+    "calories": 0,
+    "addons": [
+      {
+        "addon": "Honey",
+        "price": 0.50
+      },
+      {
+        "addon": "Lemon",
+        "price": 0.25
+      },
+      {
+        "addon": "Lavender Syrup",
+        "price": 0.80
+      }
+    ]
+  },
+  {
+    "title": "Matcha Tea",
+    "price": 3.75,
+    "image": "https://i.pinimg.com/564x/4b/27/23/4b2723fad4f22d2133c866d494f45774.jpg",
+    "size": 20,
+    "calories": 120,
+    "addons": [
+      {
+        "addon": "Vanilla Syrup",
+        "price": 0.60
+      },
+      {
+        "addon": "Almond Milk",
+        "price": 1.00
       }
     ]
   }
